@@ -24,9 +24,9 @@ To build the |hpx| documentation, you need recent versions of the following
 packages:
 
 - ``python3``
-- ``sphinx 4.5.0`` (Python package)
+- ``sphinx 5.3.0`` (Python package)
 - ``sphinx-book-theme`` (Python package)
-- ``breathe 4.33.1`` (Python package)
+- ``breathe 4.35.0`` (Python package)
 - ``doxygen``
 - ``sphinxcontrib-bibtex``
 - ``sphinx-copybutton``
